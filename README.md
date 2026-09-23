@@ -1,3 +1,4 @@
+<img width="1382" height="670" alt="tests-passed" src="https://github.com/user-attachments/assets/0fecf050-b44f-43a9-bb78-58c85f1dbf98" />
 # Enterprise Data Connector — Excel + SharePoint via Microsoft Graph API
 
 A Python pipeline for a retail analytics consultancy: connects to
@@ -293,3 +294,4 @@ test_data_pipeline.py     Step 3/4 — pipeline tests against deliberately messy
 visualize.py              Step 4 — monthly-sales-by-region bar chart (dataviz skill)
 main.py                   Step 4 — end-to-end pipeline: fetch (or sample fallback) -> validate -> merge -> summarize -> chart
 ```
+<img width="1382" height="670" alt="tests-passed" src="https://github.com/user-attachments/assets/c79bdb89-4834-4301-9c35-fc3c1fa7bd4d" />

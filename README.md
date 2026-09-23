@@ -1,4 +1,3 @@
-<img width="1382" height="670" alt="tests-passed" src="https://github.com/user-attachments/assets/0fecf050-b44f-43a9-bb78-58c85f1dbf98" />
 # Enterprise Data Connector — Excel + SharePoint via Microsoft Graph API
 
 A Python pipeline for a retail analytics consultancy: connects to
